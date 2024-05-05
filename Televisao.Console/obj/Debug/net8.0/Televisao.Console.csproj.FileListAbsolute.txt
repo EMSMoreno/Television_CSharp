@@ -1,0 +1,14 @@
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\bin\Debug\net8.0\Televisao.Console.exe
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\bin\Debug\net8.0\Televisao.Console.deps.json
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\bin\Debug\net8.0\Televisao.Console.runtimeconfig.json
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\bin\Debug\net8.0\Televisao.Console.dll
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\bin\Debug\net8.0\Televisao.Console.pdb
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\Televisao.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\Televisao.Console.AssemblyInfoInputs.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\Televisao.Console.AssemblyInfo.cs
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\Televisao.Console.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\Televisao.Console.dll
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\refint\Televisao.Console.dll
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\Televisao.Console.pdb
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\Televisao.Console.genruntimeconfig.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Curso TPSI - CET\5412 - Programação de computadores - estruturada\Televisao\Televisao.Console\obj\Debug\net8.0\ref\Televisao.Console.dll
